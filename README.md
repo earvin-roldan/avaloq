@@ -84,5 +84,7 @@ The dashboard shows your code repo, your CI/CD pipeline, and your app in Azure.
 Test the CI/CD pipeline by committing a change in the Git repo then wait for a few moments, a build 
 starts in Azure Pipelines. You can monitor the build status in the DevOps Starter dashboard.
 
+###Views to visualize Fizz,Buzz,FizzBuzz data
 
-
+- List view
+- Column view
